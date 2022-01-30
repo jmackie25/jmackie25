@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jmackie25
-- 👀 I’m interested in Computers and Cars Like alot of people.
+- 👀 I’m interested in Computers and Cars like alot of people.
 - 🌱 I’m currently learning Bash & Python
 - 💞️ I’m looking to collaborate on Currently nothing at the moment but woul;d welcome it when I am more experiinced.
 
